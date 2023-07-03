@@ -1,4 +1,4 @@
-# Welcome to Innovate!
+# Welcome to my silly modpack!
 I only know this pack works with Prism Launcher, but you can try other launchers. The setup guide is tailored for Prism Launcher.
 ### Setup:
 1. Download the pack (in Releases, on the right of this page)
